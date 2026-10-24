@@ -12,3 +12,4 @@ C:\Users\naroa\Desktop\accesoDatos\Practica2_1\obj\Debug\net10.0\refint\Practica
 C:\Users\naroa\Desktop\accesoDatos\Practica2_1\obj\Debug\net10.0\Practica2_1.pdb
 C:\Users\naroa\Desktop\accesoDatos\Practica2_1\obj\Debug\net10.0\Practica2_1.genruntimeconfig.cache
 C:\Users\naroa\Desktop\accesoDatos\Practica2_1\obj\Debug\net10.0\ref\Practica2_1.dll
+C:\Users\naroa\Desktop\accesoDatos\Practica2_1\obj\Debug\net10.0\Practica2_1.sourcelink.json
