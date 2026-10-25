@@ -114,6 +114,9 @@ class Practica21
                 File.Delete(ruta);
                 File.WriteAllText(ruta, string.Empty);
                 Console.WriteLine("Todos los registros han sido eliminados correctamente."); 
+                Console.WriteLine("Volviendo al menú principal en unos segundos.");
+                Thread.Sleep(2500);
+                Console.Clear();
             }
             else
             {
@@ -143,6 +146,9 @@ class Practica21
             {
                 File.Delete(ruta);
                 Console.WriteLine("Fichero eliminado exitosamente.");
+                Console.WriteLine("Volviendo al menú principal en unos segundos.");
+                Thread.Sleep(2500);
+                Console.Clear();
             }
             else
             {

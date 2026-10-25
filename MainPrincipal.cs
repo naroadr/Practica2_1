@@ -3,7 +3,7 @@ class MainPrincipal{
     {
         Practica21 nuevo = new Practica21();
 
-        Boolean salir = false;
+        bool salir = false;
         while (salir != true)
         {
             Console.WriteLine("\nGESTIÓN DE ESCRITURA Y LECTURA DE FICHEROS\n");
